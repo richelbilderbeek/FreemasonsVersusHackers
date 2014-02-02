@@ -69,13 +69,23 @@ figs-within-sections
 
 \begin_layout Title
 Hackers & Makers: vrijmetselaren zonder schootsvel?
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+From a freemason's perspective
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Author
 (C) Richèl Bilderbeek 
 \begin_inset Graphics
 	filename License.png
-	scale 50
+	scale 40
 
 \end_inset
 
@@ -156,7 +166,7 @@ Wat kunnen de groepen elkaar brengen?
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename 120px-Emblem-hacker.svg.png
+	filename EmblemHacker.png
 	lyxscale 50
 	scale 40
 
@@ -264,7 +274,7 @@ Hungarian Autonomous Center for Knowledge, free-as-in-speech software
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename 800px-Hungarian_Autonomous_Center_for_Knowledge.jpg
+	filename Hungarian_Autonomous_Center_for_Knowledge.jpg
 	lyxscale 50
 	scale 35
 
@@ -361,7 +371,7 @@ eech software, collaboration, open communication
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename 799px-Isrc.png
+	filename Isrc.png
 	lyxscale 50
 	scale 50
 
@@ -489,7 +499,7 @@ Freedom: free-as-in-speech hardware, doing
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename 800px-Arduino_Closeup.jpg
+	filename Arduino_Closeup.jpg
 	lyxscale 50
 	scale 30
 
@@ -553,12 +563,22 @@ Mensen helpen bij hun problemen ermee
 \end_layout
 
 \begin_layout Section
-Vrije software: GTST
+Arduino cursus
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Article in progress, https://github.com/richelbilderbeek/ArduinoCourse
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename ProjectGtst_1_2.png
+	filename ArduinoCourse.jpg
 	lyxscale 50
 	scale 50
 
@@ -576,10 +596,59 @@ Vrije software: GTST
 
 \begin_layout Section
 Vrije software: Brainweaver
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Article in progress, https://github.com/richelbilderbeek/ProjectRichelBilderbeek
 \end_layout
 
-\begin_layout Itemize
-[BRAINWEAVER]
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Brainweaver.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Vrije software: TestNewickVector
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Article in progress, https://github.com/richelbilderbeek/ProjectRichelBilderbeek
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename TestNewickVector.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -591,6 +660,16 @@ Vrije software: Brainweaver
 
 \begin_layout Section
 Vrije hardware: OpenerPCR
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+https://github.com/richelbilderbeek/OpenerPCR
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -812,7 +891,7 @@ Verschillen: vorm
 status open
 
 \begin_layout Plain Layout
-A._F._A._Woodford & an anonymous hacker
+A.F.A.Woodford & Mark Zuckerberg
 \end_layout
 
 \end_inset
@@ -832,7 +911,7 @@ A._F._A._Woodford & an anonymous hacker
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename 427px-A._F._A._Woodford.jpg
+	filename Woodford.jpg
 	lyxscale 40
 	scale 30
 
@@ -848,7 +927,9 @@ A._F._A._Woodford & an anonymous hacker
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Hackers_legendarios_01.jpg
+	filename MarkZuckerberg.jpg
+	lyxscale 50
+	scale 40
 
 \end_inset
 
@@ -967,7 +1048,7 @@ Privacy behind closed door (only members are allowed) & privacy in open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename 15_rue_Saint-Pierre_à_Dourdan_en_2013_3.jpg
+	filename Door.jpg
 	lyxscale 40
 	scale 30
 
@@ -983,7 +1064,7 @@ Privacy behind closed door (only members are allowed) & privacy in open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename 799px-Isrc_narrow.png
+	filename Isrc_narrow.png
 	lyxscale 80
 	scale 50
 
@@ -1115,11 +1196,22 @@ een mogelijkheid de wereld met daden te verbeteren
 
 \begin_layout Section
 Conclusie
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+I put freedom on two different rows, because both scenes value it at the
+ second place, yet the hackers/makers value it more than the freemasons
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 \begin_inset Tabular
-<lyxtabular version="3" rows="4" columns="2">
+<lyxtabular version="3" rows="5" columns="2">
 <features tabularvalignment="middle">
 <column alignment="center" valignment="top" width="0">
 <column alignment="center" valignment="top" width="0">
@@ -1168,7 +1260,7 @@ Vrijheid
 \begin_inset Text
 
 \begin_layout Plain Layout
-Gelijkheid
+
 \end_layout
 
 \end_inset
@@ -1178,6 +1270,26 @@ Gelijkheid
 
 \begin_layout Plain Layout
 Gelijkheid
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Gelijkheid
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
 \end_layout
 
 \end_inset
