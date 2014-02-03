@@ -128,10 +128,6 @@ Het naast elkaar leggen van de hacker/makerscene en de vrijmetselarij: vrijheid,
  gelijkheid, broederschap en de uitvoering ervan
 \end_layout
 
-\begin_layout Itemize
-Een beeld geven van deze andere culturen
-\end_layout
-
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="1" columns="2">
@@ -199,7 +195,7 @@ Deze presentatie staat online met een Creative Common licensie
 \end_layout
 
 \begin_layout Itemize
-Alle plaatjes hebben een Creative Commons of vrijere licensie
+Alle plaa
 \end_layout
 
 \begin_layout Itemize
@@ -541,26 +537,16 @@ Wat doe ik daar dan?
 \end_layout
 
 \begin_layout Itemize
-Gebruiken vrije soft- en hardware
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-Uitdragen vrijheid
-\end_layout
-
-\end_inset
-
- 
+Gebruiken vrije soft- en hardware 
 \end_layout
 
 \begin_layout Itemize
 Maken vrije soft- en hardware
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
-Vermeerderen vrijheid
+Ongeveer 100 programma's, 4 machines 
 \end_layout
 
 \end_inset
@@ -574,7 +560,7 @@ Mensen scholen in hun kennis ervan
 status open
 
 \begin_layout Plain Layout
-Gelijkheid
+Meerdere cursussen: C++ en Arduino
 \end_layout
 
 \end_inset
@@ -584,16 +570,6 @@ Gelijkheid
 
 \begin_layout Itemize
 Mensen helpen bij hun problemen ermee
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-Broederschap
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -609,7 +585,7 @@ Arduino cursus
 status open
 
 \begin_layout Plain Layout
-https://github.com/richelbilderbeek/ArduinoCourse
+Article in progress, https://github.com/richelbilderbeek/ArduinoCourse
 \end_layout
 
 \end_inset
@@ -734,15 +710,15 @@ Overeenkomsten
 \end_layout
 
 \begin_layout Itemize
-Vrijheid in zoektocht naar kennis
+Zoektocht naar kennis
 \end_layout
 
 \begin_layout Itemize
-Gelijkheid
+Iedereen gelijk
 \end_layout
 
 \begin_layout Itemize
-Samen een bijdrage aan de wereld proberen te leveren
+De wereld te verbeteren
 \end_layout
 
 \begin_layout Standard
@@ -860,7 +836,7 @@ Vrijmetselarij: verandering gebonden aan tradities
 \end_layout
 
 \begin_layout Section
-Verschillen: uitvoering
+Verschillen: vorm
 \begin_inset Note Note
 status open
 
@@ -995,7 +971,7 @@ A.F.A.Woodford & Mark Zuckerberg
 \end_layout
 
 \begin_layout Section
-Verschillen: uitvoering
+Verschillen: vorm
 \begin_inset Note Note
 status open
 
@@ -1063,7 +1039,7 @@ Freemasonry certificate & Manifesto
 \end_layout
 
 \begin_layout Section
-Verschillen: openheid
+Verschillen: toegankelijkheid
 \begin_inset Note Note
 status open
 
